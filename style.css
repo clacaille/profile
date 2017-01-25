@@ -22,7 +22,7 @@ a:hover {
 }
 
 img {
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
     border-radius: 5px;
 }
@@ -87,6 +87,10 @@ img {
   text-align: center;
   font-size: 20px;
   font-weight: bold;
+}
+
+#languages {
+  text-align: center;
 }
 
 #text_underline_overline {
